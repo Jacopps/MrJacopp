@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MrJacopp
 - 👀 I’m interested in software
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java,Wordpress
 
 <!---
 MrJacopp/MrJacopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
